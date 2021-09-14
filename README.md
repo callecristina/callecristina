@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @CristinaCalle
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning java and python
+- 🧾 I use Python, R, SQL, Java
+- 🌱 I’m currently learning JS and Html
 - 💞️ I’m looking to collaborate on scraping techique
 - 📫 https://github.com/callecristina
 
